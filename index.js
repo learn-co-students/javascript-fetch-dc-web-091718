@@ -1,4 +1,4 @@
-const token = '9afd6f25b65deecdbbe693b16296a3c2cdf3afd9'
+const token = ''
 
 fetch('https://api.github.com/users/adigitalnative/repos', {
   headers: {
